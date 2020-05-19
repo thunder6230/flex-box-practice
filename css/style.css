@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+}
+.container{
+   width:20rem;
+   margin:0 auto;
+   font-weight: 600;
+   font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    font-size: 2.3rem;
+}
+.container-box{
+    font-size: 0.8rem;
+}
+.black-10p{
+    border-top: 10px solid black;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.row-main-element{
+    width: 70%;
+    align-self: flex-end;
+
+}
+.row-alt-element{
+    width: 15%;
+    align-self: flex-end;
+    text-align: right;
+}
+.sub-main-element{
+    width:70%;
+}
+.alone{
+ width: 100%;
+}
+.row-alone{
+    width: 100%;
+    text-align: right;
+    border-top: 8px solid black;
+}
+.grey{
+    border-top: 1px solid lightgrey;
+}
+.grey-2p{
+    border-top: 2px solid grey;
+}
+.grey-3p{
+border-top: 3px solid lightgrey;
+}
+.black{
+    border-top: 1px solid black;
+}
+.black-2p{
+    border-top: 2px solid black;
+}
+.black-3p{
+    border-top: 3px solid black;
+}
+.container-box-2 p{
+    font-size: 0.7rem;
+    text-align: left;
+}
+
+.box-2{
+    width:20%;
+}
+.sub{
+    margin-left: 0.8rem;
+    width:36%;
+}
+.main{
+    width:40%;
+}
+.ending{
+    width: 100%;    
+}
+.ending p{
+    text-align: center;
+}
+.sub-row{
+    width:96%;
+    margin-left: 0.7rem;
+}
+.black-btm{
+    border-bottom: 2px solid black;
+}
